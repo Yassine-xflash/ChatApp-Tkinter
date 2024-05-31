@@ -1,0 +1,12 @@
+tkinter
+Pillow
+sounddevice
+numpy
+scipy
+pyaudio
+pyttsx3
+speechrecognition
+pygame
+soundfile
+librosa
+scikit-learn
