@@ -71,13 +71,16 @@ Welcome to the Chat Application designed specifically to cater to the needs of t
 
 ## Screenshots
 
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/connexion.jpg)
 *Login Screen*
 
-![Registration Screen](screenshots/registration_screen.png)
+![Login Example](screenshots/alpha.jpg)
+*Login Example*
+
+![Registration Screen](screenshots/inscription.jpg)
 *Registration Screen*
 
-![Chat Interface](screenshots/chat_interface.png)
+![Chat Interface](screenshots/chat.jpg)
 *Chat Interface*
 
 ## Technologies Used
